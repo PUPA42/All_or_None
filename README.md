@@ -1,2 +1,2 @@
 # All_or_None
-This is a VR game.
+This is a Unity project.
